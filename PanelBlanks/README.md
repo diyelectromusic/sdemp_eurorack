@@ -2,8 +2,8 @@
 
 Designs of a PCB-based front panel for EuroRack modules with built-in GND and VCC rails.
 
-- Design notes: https://diyelectromusic.wordpress.com/2023/03/03/analog-io-board-pcb/
-- Build and test notes: https://diyelectromusic.wordpress.com/2023/03/03/analog-io-board-pcb-part-2/
+- Design notes: N/A
+- Build and test notes: N/A
 
 Bill of Materials:
 - Panel PCB.
