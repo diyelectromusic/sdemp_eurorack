@@ -17,7 +17,7 @@ If you like what you see, you can buy me a Ko-Fi - https://ko-fi.com/diyelectrom
 
 Please note - I consider myself a novice at pcb design!
 
-** DO NOT USE with other expensive modules, racks or power supplies**
+**DO NOT USE with other expensive modules, racks or power supplies**
 
 These are DIY projects only and I am not qualified to design something that could be used with other commerical, expensive equipment without damaging it.
 
