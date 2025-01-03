@@ -5,6 +5,11 @@ Designs of a PCB-based front panel for EuroRack modules with built-in GND and VC
 - Design notes: N/A
 - Build and test notes: N/A
 
+General Notes:
+- VCC and GND are included for convenience but don't have to be used.
+- The mounting holes should have been multiples of 1HP (5.08mm) apart.  This panel isn't quite to spec, but as I've used oval mounting holes, there should be enough flexibility to work ok in most cases.
+- When drilling holes for mounting components additional care is required if using VCC.
+
 Bill of Materials:
 - Panel PCB.
 
