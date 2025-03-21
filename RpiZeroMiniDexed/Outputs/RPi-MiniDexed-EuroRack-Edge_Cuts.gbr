@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.7*%
+%TF.CreationDate,2025-02-20T21:39:26+00:00*%
+%TF.ProjectId,RPi-MiniDexed-EuroRack,5250692d-4d69-46e6-9944-657865642d45,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.7) date 2025-02-20 21:39:26*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X50000000Y-50000000D02*
+X90000000Y-50000000D01*
+X90000000Y-138000000D01*
+X50000000Y-138000000D01*
+X50000000Y-50000000D01*
+M02*
