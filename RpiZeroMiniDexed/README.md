@@ -2,11 +2,11 @@
 
 This is my take on a Raspberry Pi Zero 1 or 2 based MiniDexed module for EuroRack.
 
-**This is still considered a prototype module.**
+**This is considered a prototype module.**
 
-**This is only designed for use with other expendable DIY modules.**
+**This is only designed for use with other, expendable, DIY modules.**
 
-**It is use for use with commercial, expensive, or treasured systems or modules.**
+**It is NOT FOR USE with commercial, expensive, or treasured systems or modules.**
 
 - Design notes: https://diyelectromusic.com/2025/02/22/minidexed-eurorack-pcb-design/
 - Build and test notes: https://diyelectromusic.com/2025/03/21/minidexed-eurorack-pcb-build-guide/
